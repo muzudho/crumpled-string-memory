@@ -6,7 +6,7 @@
 ↓ では次の２９文字で書かれた３つの文字列を見てください。  
 
 ```plain
-transaxtion
+transaction
 translation
 station
 ```
